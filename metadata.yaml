@@ -1,0 +1,28 @@
+_repo: Dick-Kent-Fur-Trader_52207
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oblinger, M. M. (Milo Milton)
+    aliases:
+    - Oblinger, Milo Milton
+    - Milton Richards
+    birthdate: 1900
+    gutenberg_agent_id: '45787'
+    url: http://www.gutenberg.org/2009/agents/45787
+description: ''
+gutenberg_issued: '2016-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Royal Canadian Mounted Police -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Canada, Northern -- Juvenile fiction'
+- GITenberg
+title: Dick Kent, Fur Trader
+url: http://www.gutenberg.org/ebooks/52207
